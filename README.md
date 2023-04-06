@@ -1,2 +1,2 @@
-# cookbook
-mastering git Pluralsight course
+# COOKBOOK
+MASTERING GIT PLURALSIGHT COURSE
